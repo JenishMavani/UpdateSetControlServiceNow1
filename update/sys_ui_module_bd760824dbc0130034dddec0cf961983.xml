@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="UpdateSetControlDemo">bc42eb58db401300395fd360cf961975</application>
+        <filter/>
+        <name>LocalUpdate_dev319690s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_37290_update_set.localupdate_dev319690_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-30 12:10:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bd760824dbc0130034dddec0cf961983</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LocalUpdate_dev319690s</sys_name>
+        <sys_package display_value="Update Set Control" source="x_37290_update_set">8c2b3e48db401300395fd360cf9619fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Update Set Control">8c2b3e48db401300395fd360cf9619fe</sys_scope>
+        <sys_update_name>sys_ui_module_bd760824dbc0130034dddec0cf961983</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-30 12:10:12</sys_updated_on>
+        <table>x_37290_update_set_localupdate_dev319690</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

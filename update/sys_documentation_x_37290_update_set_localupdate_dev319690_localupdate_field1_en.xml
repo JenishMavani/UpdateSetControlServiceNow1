@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="localupdate_field1" label="LocalUpdate_Field1" language="en" table="x_37290_update_set_localupdate_dev319690">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>localupdate_field1</element>
+            <help/>
+            <hint/>
+            <label>LocalUpdate_Field1</label>
+            <language>en</language>
+            <name>x_37290_update_set_localupdate_dev319690</name>
+            <plural>LocalUpdate_Field1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-30 12:18:47</sys_created_on>
+            <sys_id>e7680864dbc0130034dddec0cf9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>LocalUpdate_Field1</sys_name>
+            <sys_package display_value="Update Set Control" source="x_37290_update_set">8c2b3e48db401300395fd360cf9619fe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Update Set Control">8c2b3e48db401300395fd360cf9619fe</sys_scope>
+            <sys_update_name>sys_documentation_x_37290_update_set_localupdate_dev319690_localupdate_field1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-30 12:18:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
