@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="localupdate_field2" table="x_37290_update_set_localupdate_dev319690">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="localupdate_field5" table="x_37290_update_set_localupdate_dev319690">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -15,7 +15,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>LocalUpdate_Field2</column_label>
+        <column_label>LocalUpdate_Field5</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -28,14 +28,14 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>localupdate_field2</element>
+        <element>localupdate_field5</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
+        <max_length>100</max_length>
         <name>x_37290_update_set_localupdate_dev319690</name>
         <next_element/>
         <primary>false</primary>
@@ -53,16 +53,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-01-30 12:18:47</sys_created_on>
-        <sys_id>34e66478db80130034dddec0cf961910</sys_id>
+        <sys_created_on>2018-01-31 09:12:09</sys_created_on>
+        <sys_id>b737a4b8db80130034dddec0cf9619d1</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>LocalUpdate_Field2</sys_name>
+        <sys_name>LocalUpdate_Field5</sys_name>
         <sys_package display_value="Update Set Control" source="x_37290_update_set">8c2b3e48db401300395fd360cf9619fe</sys_package>
         <sys_policy/>
         <sys_scope display_value="Update Set Control">8c2b3e48db401300395fd360cf9619fe</sys_scope>
-        <sys_update_name>sys_dictionary_x_37290_update_set_localupdate_dev319690_localupdate_field2</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-01-31 09:10:22</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_37290_update_set_localupdate_dev319690_localupdate_field5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-31 09:12:09</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

@@ -4,5 +4,6 @@
         <element label="LocalUpdate_Field1" max_length="1000" name="localupdate_field1" type="string"/>
         <element label="LocalUpdate_Field2" max_length="40" name="localupdate_field2" type="string"/>
         <element label="LocalUpdate_Field3" max_length="40" name="localupdate_field3" type="glide_date"/>
+        <element label="LocalUpdate_Field5" max_length="100" name="localupdate_field5" type="string"/>
     </element>
 </database>
