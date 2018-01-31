@@ -3,5 +3,6 @@
     <element label="LocalUpdate_dev319690" max_length="40" name="x_37290_update_set_localupdate_dev319690" type="collection">
         <element label="LocalUpdate_Field1" max_length="1000" name="localupdate_field1" type="string"/>
         <element label="LocalUpdate_Field2" max_length="40" name="localupdate_field2" type="string"/>
+        <element label="LocalUpdate_Field3" max_length="40" name="localupdate_field3" type="glide_date"/>
     </element>
 </database>
