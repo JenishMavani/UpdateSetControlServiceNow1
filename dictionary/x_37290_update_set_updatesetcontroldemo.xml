@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="UpdateSetControlDemo" max_length="40" name="x_37290_update_set_updatesetcontroldemo" type="collection">
+        <element label="Branch1" max_length="40" name="branch1" type="string"/>
         <element label="UpdateSet Name" max_length="40" name="updateset_name" type="string"/>
         <element label="Version" max_length="40" name="version" type="integer"/>
     </element>
