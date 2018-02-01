@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="LocalUpdateTable3_dev31960" max_length="40" name="x_37290_update_set_localupdatetable3_dev31960" type="collection">
+        <element label="Table3_Field1" max_length="100" name="table3_field1" type="string"/>
+    </element>
+</database>
