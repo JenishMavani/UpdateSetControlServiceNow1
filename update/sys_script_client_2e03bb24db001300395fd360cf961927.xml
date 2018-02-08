@@ -12,7 +12,8 @@
         <order/>
         <script><![CDATA[function onLoad() {
    //Type appropriate comment here, and begin script below
-   alert("Helloo");
+   alert("Helloo+++");
+	
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -20,7 +21,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2e03bb24db001300395fd360cf961927</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Test Changes</sys_name>
         <sys_overrides/>
         <sys_package display_value="Update Set Control" source="x_37290_update_set">8c2b3e48db401300395fd360cf9619fe</sys_package>
@@ -28,7 +29,7 @@
         <sys_scope display_value="Update Set Control">8c2b3e48db401300395fd360cf9619fe</sys_scope>
         <sys_update_name>sys_script_client_2e03bb24db001300395fd360cf961927</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-01-31 07:21:38</sys_updated_on>
+        <sys_updated_on>2018-02-08 06:25:57</sys_updated_on>
         <table>x_37290_update_set_updatesetcontroldemo</table>
         <type>onLoad</type>
         <ui_type>0</ui_type>
