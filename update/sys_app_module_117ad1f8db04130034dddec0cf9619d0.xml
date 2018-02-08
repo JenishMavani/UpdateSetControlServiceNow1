@@ -20,6 +20,8 @@
         <query/>
         <report/>
         <roles>x_37290_update_set.localupdatetable3_dev31960_user</roles>
+        <survey/>
+        <survey_overwrite>false</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-01-31 12:55:39</sys_created_on>
