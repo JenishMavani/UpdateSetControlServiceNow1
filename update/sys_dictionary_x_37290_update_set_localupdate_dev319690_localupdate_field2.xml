@@ -31,8 +31,6 @@
         <element>localupdate_field2</element>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <function_definition/>
-        <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
@@ -54,7 +52,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-01-30 12:18:47</sys_created_on>
-        <sys_id>e80dc95fdb00130034dddec0cf9619c9</sys_id>
+        <sys_id>9def415fdb001300395fd360cf96190e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>LocalUpdate_Field2</sys_name>
         <sys_package display_value="Update Set Control" source="x_37290_update_set">8c2b3e48db401300395fd360cf9619fe</sys_package>
@@ -62,7 +60,7 @@
         <sys_scope display_value="Update Set Control">8c2b3e48db401300395fd360cf9619fe</sys_scope>
         <sys_update_name>sys_dictionary_x_37290_update_set_localupdate_dev319690_localupdate_field2</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-02-08 06:21:44</sys_updated_on>
+        <sys_updated_on>2018-02-08 06:34:20</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
