@@ -3,9 +3,9 @@
     <sys_script action="INSERT_OR_UPDATE">
         <abort_action>false</abort_action>
         <access>package_private</access>
-        <action_delete>false</action_delete>
+        <action_delete>true</action_delete>
         <action_insert>false</action_insert>
-        <action_query>false</action_query>
+        <action_query>true</action_query>
         <action_update>false</action_update>
         <active>true</active>
         <add_message>true</add_message>
@@ -39,7 +39,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>64c5587cdb40130034dddec0cf9619a0</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>TEST BR dev31960</sys_name>
         <sys_overrides/>
         <sys_package display_value="Update Set Control" source="x_37290_update_set">8c2b3e48db401300395fd360cf9619fe</sys_package>
@@ -47,7 +47,7 @@
         <sys_scope display_value="Update Set Control">8c2b3e48db401300395fd360cf9619fe</sys_scope>
         <sys_update_name>sys_script_64c5587cdb40130034dddec0cf9619a0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-01-31 07:58:44</sys_updated_on>
+        <sys_updated_on>2018-02-08 06:49:46</sys_updated_on>
         <template/>
         <when>before_display</when>
     </sys_script>
